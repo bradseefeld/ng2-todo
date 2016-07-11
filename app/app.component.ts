@@ -1,11 +1,11 @@
-import { Component } from '@angular/core';
+import { Component } from "@angular/core";
 
 /**
- * The AppComponent is the main wrapper 'component' for our entire app.
+ * The AppComponent is the main wrapper "component" for our entire app.
  */
 @Component({
-  selector: 'app',
-  template: require('./app.component.html')
+  selector: "app",
+  template: require("./app.component.html")
 })
 export class AppComponent {
 }
