@@ -1,5 +1,5 @@
 import { bootstrap } from "@angular/platform-browser-dynamic";
-import { AppComponent } from "./app.component";
+import { AppComponent } from "./todos/app.component";
 
 /**
  * This is the main entry point of the application. Calling bootstrap on our
